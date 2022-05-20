@@ -1,0 +1,42 @@
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.exe
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.deps.json
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.runtimeconfig.json
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.runtimeconfig.dev.json
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.dll
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\ref\primo test vb.dll
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.pdb
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.vbprojAssemblyReference.cache
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo_test_vb.Form1.resources
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.vbproj.GenerateResource.cache
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.AssemblyInfoInputs.cache
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.AssemblyInfo.vb
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.vbproj.CoreCompileInputs.cache
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.dll
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\ref\primo test vb.dll
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.pdb
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.genruntimeconfig.cache
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo_test_vb.LoginForm1.resources
+C:\Users\clonwerk\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo_test_vb.UserControl1.resources
+C:\Users\andrea\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.exe
+C:\Users\andrea\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.deps.json
+C:\Users\andrea\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.runtimeconfig.json
+C:\Users\andrea\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.runtimeconfig.dev.json
+C:\Users\andrea\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.dll
+C:\Users\andrea\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\ref\primo test vb.dll
+C:\Users\andrea\source\repos\test iniziali\primo test vb\bin\Debug\net5.0-windows\primo test vb.pdb
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.vbprojAssemblyReference.cache
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo_test_vb.Form1.resources
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo_test_vb.LoginForm1.resources
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo_test_vb.UserControl1.resources
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.vbproj.GenerateResource.cache
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.AssemblyInfoInputs.cache
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.AssemblyInfo.vb
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.vbproj.CoreCompileInputs.cache
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.dll
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\ref\primo test vb.dll
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.pdb
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo test vb.genruntimeconfig.cache
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo_test_vb.Form2.resources
+C:\Users\andrea\source\repos\test iniziali\primo test vb\obj\Debug\net5.0-windows\primo_test_vb.Form3.resources
